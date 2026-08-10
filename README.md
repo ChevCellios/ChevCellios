@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="./chevcellios-github-banner.png" alt="ChevCellios GitHub banner" width="100%">
+</p>
 
 <!--
 **ChevCellios/ChevCellios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
