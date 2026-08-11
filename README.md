@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./chevcellios-github-banner-animated.gif" alt="Animated ChevCellios developer profile banner" width="100%" />
+  <img src="./chevcellios-github-banner-animated-v2.gif" alt="Animated ChevCellios developer profile banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm ChevCellios 👋</h1>
