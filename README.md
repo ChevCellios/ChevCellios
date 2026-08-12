@@ -2,7 +2,7 @@
   <img src="./chevcellios-github-banner-animated-v2.gif" alt="Animated ChevCellios developer profile banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm ChevCellios 👋</h1>
+<h1 align="center">Welcome to my GitHub :)👋</h1>
 
 <p align="center">
   <strong>Developer · Builder · Digital Explorer</strong><br />
