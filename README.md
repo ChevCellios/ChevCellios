@@ -113,36 +113,20 @@ My working principles are simple:
 
 ---
 
-### GitHub Activity
+## GitHub Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ChevCellios&show_icons=true&hide_border=true"
-    height="165"
-    alt="GitHub statistics"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChevCellios&layout=compact&hide_border=true"
-    height="165"
-    alt="Most used languages"
-  />
+  <img src="/github-metrics.svg" alt="GitHub Metrics" width="85%">
 </p>
 
 <p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=ChevCellios&label=Profile%20Views"
-    alt="Profile views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=ChevCellios&label=Profile%20Views" alt="Profile views">
 </p>
-
----
-
 <p align="center">
   Building • Learning • Improving
 </p>
 <p align="center">
-  <sub>Statistics reflect public GitHub activity and may not represent private or external projects.</sub>
+  <sub>Statistics reflect public GitHub activity and do not include private repositories or external projects.</sub>
 </p>
 
 ## Let's collaborate
