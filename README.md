@@ -111,13 +111,36 @@ My working principles are simple:
 - adding live demos and deeper technical write-ups where they add value;
 - contributing more reusable work back to the open-source community.
 
-## GitHub activity
+---
+
+### GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ChevCellios&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=7EE7FF&text_color=C9D1D9&icon_color=A78BFA" alt="ChevCellios GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChevCellios&layout=compact&hide_border=true&bg_color=0D1117&title_color=7EE7FF&text_color=C9D1D9" alt="Most used languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ChevCellios&show_icons=true&hide_border=true"
+    height="165"
+    alt="GitHub statistics"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChevCellios&layout=compact&hide_border=true"
+    height="165"
+    alt="Most used languages"
+  />
 </p>
 
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=ChevCellios&label=Profile%20Views"
+    alt="Profile views"
+  />
+</p>
+
+---
+
+<p align="center">
+  Building • Learning • Improving
+</p>
 <p align="center">
   <sub>Statistics reflect public GitHub activity and may not represent private or external projects.</sub>
 </p>
