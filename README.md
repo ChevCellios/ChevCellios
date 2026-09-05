@@ -47,34 +47,3 @@ I build focused applications, secure web systems, automation, and visual experim
 ## `05 // WORKFLOW`
 
 <img src="./assets/build-pipeline.svg" alt="Build pipeline: understand, design, build, verify, ship and iterate" width="100%" />
-
-## `06 // GITHUB ACTIVITY`
-
-<div align="center">
-
-[![Repositories](https://img.shields.io/badge/PUBLIC_SYSTEMS-7-25F4EE?style=flat-square&labelColor=0B1220)](https://github.com/ChevCellios?tab=repositories)
-[![Primary languages](https://img.shields.io/badge/PRIMARY-C%23_·_TYPESCRIPT-8B5CF6?style=flat-square&labelColor=0B1220)](https://github.com/ChevCellios?tab=repositories)
-![Profile views](https://komarev.com/ghpvc/?username=ChevCellios&label=SYSTEM%20VISITS&color=3FFFA2&style=flat-square)
-
-</div>
-
-<details>
-<summary><code>OPEN DETAILED TELEMETRY</code></summary>
-<br />
-<div align="center">
-<img src="./github-metrics.svg" alt="Detailed ChevCellios GitHub activity metrics" width="88%" />
-</div>
-</details>
-
-## `07 // SYSTEM PHILOSOPHY`
-
-<div align="center">
-
-### `> CORE DIRECTIVE`
-
-**Build clearly. Learn continuously.**<br />
-**Leave the system better than you found it.**
-
-`EOF // CHEVCELLIOS`
-
-</div>
