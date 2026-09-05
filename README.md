@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/dev-system-boot.gif" alt="CHEVCELLIOS DEV SYSTEM animated boot sequence" width="100%" />
+<img src="./assets/dev-system-boot.png" alt="CHEVCELLIOS DEV SYSTEM automatic boot sequence" width="100%" />
 
 [![Repositories](https://img.shields.io/badge/EXPLORE-REPOSITORIES-00E5FF?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/ChevCellios?tab=repositories)
 [![Stars](https://img.shields.io/badge/OPEN-STAR_MAP-8B5CF6?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/ChevCellios?tab=stars)
@@ -44,13 +44,19 @@ I build focused applications, secure web systems, automation, and visual experim
 
 <div align="center">
 
-<img src="./github-metrics.svg" alt="ChevCellios GitHub activity metrics" width="88%" />
-
-![Profile views](https://komarev.com/ghpvc/?username=ChevCellios&label=SYSTEM%20VISITS&color=00E5FF&style=flat-square)
-
-<sub>Public GitHub activity only; private repositories and external work are not included.</sub>
+[![Repositories](https://img.shields.io/badge/PUBLIC_SYSTEMS-7-25F4EE?style=flat-square&labelColor=0B1220)](https://github.com/ChevCellios?tab=repositories)
+[![Primary languages](https://img.shields.io/badge/PRIMARY-C%23_·_TYPESCRIPT-8B5CF6?style=flat-square&labelColor=0B1220)](https://github.com/ChevCellios?tab=repositories)
+![Profile views](https://komarev.com/ghpvc/?username=ChevCellios&label=SYSTEM%20VISITS&color=3FFFA2&style=flat-square)
 
 </div>
+
+<details>
+<summary><code>OPEN DETAILED TELEMETRY</code></summary>
+<br />
+<div align="center">
+<img src="./github-metrics.svg" alt="Detailed ChevCellios GitHub activity metrics" width="88%" />
+</div>
+</details>
 
 ## `07 // SYSTEM PHILOSOPHY`
 
