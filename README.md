@@ -1,153 +1,69 @@
-<p align="center">
-  <img src="./chevcellios-github-banner-animated-v2.gif" alt="Animated ChevCellios developer profile banner" width="100%" />
-</p>
+<div align="center">
 
-<h1 align="center">Welcome to my GitHub :)👋</h1>
+<img src="./assets/dev-system-boot.gif" alt="CHEVCELLIOS DEV SYSTEM animated boot sequence" width="100%" />
 
-<p align="center">
-  <strong>Developer · Builder · Digital Explorer</strong><br />
-  I turn ideas into useful software, visual systems, and practical experiments.
-</p>
+[![Repositories](https://img.shields.io/badge/EXPLORE-REPOSITORIES-00E5FF?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/ChevCellios?tab=repositories)
+[![Stars](https://img.shields.io/badge/OPEN-STAR_MAP-8B5CF6?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/ChevCellios?tab=stars)
 
-<p align="center">
-  <a href="https://github.com/ChevCellios?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My_Repositories-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
-  </a>
-  <a href="https://github.com/ChevCellios?tab=stars">
-    <img src="https://img.shields.io/badge/Discover-My_Stars-8B5CF6?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Discover my stars" />
-  </a>
-</p>
+</div>
 
 ---
 
-## Welcome to my digital workshop
+## `01 // SYSTEM BOOT`
 
-This profile is a living map of the things I build, learn, test, break, and improve. I am most interested in the space where **software engineering**, **creative technology**, **automation**, and **visual thinking** meet.
+`BOOT COMPLETE` · `IDENTITY VERIFIED` · `SYSTEM ONLINE`
 
-Some repositories are finished tools. Others are prototypes, notes, or small ideas that may grow into something larger. I keep the process visible because progress is often more useful than polish.
+## `02 // WHOAMI`
 
-> **Build clearly. Learn continuously. Leave the system better than you found it.**
+I build focused applications, secure web systems, automation, and visual experiments. My work lives where **software engineering**, **cybersecurity**, **AI-assisted development**, and **creative technology** intersect.
 
-## What I build
+> `whoami` — Developer / builder / digital explorer turning complex ideas into clear, useful systems.
 
-| Focus | What it means in practice |
-| --- | --- |
-| **Software systems** | Small, focused applications with clear boundaries and maintainable code |
-| **Web experiences** | Responsive, accessible interfaces that feel intentional |
-| **Automation** | Repeatable workflows that remove friction without hiding complexity |
-| **AI-assisted development** | Research, prototyping, review, and iteration grounded in human judgment |
-| **Visual systems** | Interfaces, diagrams, and assets that make technical ideas easier to understand |
+## `03 // FEATURED PROJECTS`
 
-## Featured work
+<img src="./assets/featured-projects.svg" alt="Featured projects: Petabit, JEKA AOPS and Visual Motivation" width="100%" />
 
-My repositories currently span a few recurring themes:
+<div align="center">
 
-- **Applications** — complete tools, utilities, and product experiments
-- **Web** — websites, interfaces, components, and frontend explorations
-- **Automation** — scripts, integrations, and repeatable workflows
-- **Visual Lab** — brand assets, UI concepts, and creative technology
-- **Learning** — technical investigations, exercises, notes, and prototypes
+[![Petabit](https://img.shields.io/badge/01-PETABIT-25F4EE?style=for-the-badge&labelColor=0B1220)](https://github.com/ChevCellios/Petabit)
+[![Live system](https://img.shields.io/badge/LAUNCH-LIVE_SYSTEM-3FFFA2?style=for-the-badge&labelColor=0B1220)](https://petabit-production.up.railway.app/)
+[![JEKA AOPS](https://img.shields.io/badge/02-JEKA_AOPS-8B5CF6?style=for-the-badge&labelColor=0B1220)](https://github.com/ChevCellios/jeka-aops)
+[![Visual Motivation](https://img.shields.io/badge/03-VISUAL_MOTIVATION-E6EDF3?style=for-the-badge&labelColor=0B1220)](https://github.com/ChevCellios/VisualMotivation)
 
-<p align="center">
-  <a href="https://github.com/ChevCellios?tab=repositories"><strong>Browse all repositories →</strong></a>
-</p>
+</div>
 
-<!--
-Add real projects here when they are ready:
+## `04 // SYSTEM STACK / SKILLS`
 
-### Project name
+<img src="./assets/system-stack.svg" alt="System stack and skills including software engineering, operations and cybersecurity" width="100%" />
 
-One sentence explaining the problem and why the project exists.
+## `05 // WORKFLOW`
 
-- **Status:** Active / Stable / Experimental / Archived
-- **Built with:** Technology list
-- **Highlights:** Most important capabilities
-- **Repository:** https://github.com/ChevCellios/REPOSITORY
-- **Demo:** Optional live URL
--->
+<img src="./assets/build-pipeline.svg" alt="Build pipeline: understand, design, build, verify, ship and iterate" width="100%" />
 
-## Technology and tools
+## `06 // GITHUB ACTIVITY`
 
-I choose tools for the problem, not for fashion. These are the technologies and environments I use or actively explore:
+<div align="center">
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,dotnet,nodejs,git,github,vscode,docker&theme=dark&perline=6" alt="HTML, CSS, JavaScript, TypeScript, Python, C#, .NET, Node.js, Git, GitHub, VS Code, and Docker" />
-  </a>
-</p>
+<img src="./github-metrics.svg" alt="ChevCellios GitHub activity metrics" width="88%" />
 
-Beyond the stack, I care about maintainable architecture, responsive UI, APIs and integrations, testing, documentation, and visual consistency.
+![Profile views](https://komarev.com/ghpvc/?username=ChevCellios&label=SYSTEM%20VISITS&color=00E5FF&style=flat-square)
 
-## How I work
+<sub>Public GitHub activity only; private repositories and external work are not included.</sub>
 
-```text
-Understand the real problem
-        ↓
-Define the smallest useful outcome
-        ↓
-Build a working vertical slice
-        ↓
-Test with realistic inputs
-        ↓
-Refine the structure and experience
-        ↓
-Ship, observe, and iterate
-```
+</div>
 
-My working principles are simple:
+## `07 // SYSTEM PHILOSOPHY`
 
-1. **Clarity before complexity** — more code cannot fix a vague goal.
-2. **Working software before abstraction** — architecture should emerge from real needs.
-3. **Verification before confidence** — tests, inspection, and evidence matter.
-4. **Documentation is part of the product** — future contributors need context, not clues.
-5. **Iteration over perfection** — a useful version today creates better feedback tomorrow.
-6. **Preserve user control** — automation should remain understandable and reversible.
-
-## Current direction
-
-- building a consistent identity across my GitHub work;
-- turning promising experiments into focused, reusable tools;
-- documenting projects so their purpose and status are immediately clear;
-- adding live demos and deeper technical write-ups where they add value;
-- contributing more reusable work back to the open-source community.
+<img src="./assets/system-philosophy.svg" alt="Build clearly. Learn continuously. Leave the system better than you found it." width="100%" />
 
 ---
 
-## GitHub Activity
+<div align="center">
 
-<p align="center">
-  <img src="/github-metrics.svg" alt="GitHub Metrics" width="85%">
-</p>
+**`CONNECTION OPEN`**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChevCellios&label=Profile%20Views" alt="Profile views">
-</p>
-<p align="center">
-  Building • Learning • Improving
-</p>
-<p align="center">
-  <sub>Statistics reflect public GitHub activity and do not include private repositories or external projects.</sub>
-</p>
+[Profile](https://github.com/ChevCellios) · [Repositories](https://github.com/ChevCellios?tab=repositories) · [Stars](https://github.com/ChevCellios?tab=stars)
 
-## Let's collaborate
+<sub>Designed and maintained by ChevCellios.</sub>
 
-I am open to conversations about developer tools, focused web products, workflow automation, open-source experiments, creative coding, and projects where solid engineering and strong presentation reinforce each other.
-
-If one of my repositories is useful to you, open an issue, start a discussion, or propose an improvement. A clear description of the problem and the desired outcome is always the best place to begin.
-
----
-
-<p align="center">
-  <strong>Thanks for visiting.</strong><br />
-  Explore the repositories, follow the experiments, or return later — the map will keep growing.
-</p>
-
-<p align="center">
-  <a href="https://github.com/ChevCellios">Profile</a>
-  ·
-  <a href="https://github.com/ChevCellios?tab=repositories">Repositories</a>
-  ·
-  <a href="https://github.com/ChevCellios?tab=stars">Stars</a>
-</p>
-
-<p align="center"><sub>Designed and maintained by ChevCellios.</sub></p>
+</div>
