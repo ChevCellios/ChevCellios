@@ -36,6 +36,14 @@ I build focused applications, secure web systems, automation, and visual experim
 
 <img src="./assets/system-stack.svg" alt="System stack and skills including software engineering, operations and cybersecurity" width="100%" />
 
+<div align="center">
+
+[![Languages and tools](https://skillicons.dev/icons?i=cs,dotnet,ts,js,html,css,react,nodejs,python,postgres,docker,git,github,vscode&theme=dark&perline=7)](https://skillicons.dev)
+
+<sub>C# · .NET · TypeScript · JavaScript · HTML · CSS · React · Node.js · Python · PostgreSQL · Docker · Git · GitHub · VS Code</sub>
+
+</div>
+
 ## `05 // WORKFLOW`
 
 <img src="./assets/build-pipeline.svg" alt="Build pipeline: understand, design, build, verify, ship and iterate" width="100%" />
@@ -60,16 +68,13 @@ I build focused applications, secure web systems, automation, and visual experim
 
 ## `07 // SYSTEM PHILOSOPHY`
 
-<img src="./assets/system-philosophy.svg" alt="Build clearly. Learn continuously. Leave the system better than you found it." width="100%" />
-
----
-
 <div align="center">
 
-**`CONNECTION OPEN`**
+### `> CORE DIRECTIVE`
 
-[Profile](https://github.com/ChevCellios) · [Repositories](https://github.com/ChevCellios?tab=repositories) · [Stars](https://github.com/ChevCellios?tab=stars)
+**Build clearly. Learn continuously.**<br />
+**Leave the system better than you found it.**
 
-<sub>Designed and maintained by ChevCellios.</sub>
+`EOF // CHEVCELLIOS`
 
 </div>
